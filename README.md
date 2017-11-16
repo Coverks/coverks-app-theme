@@ -1,0 +1,1 @@
+# Coverks App WP Theme
