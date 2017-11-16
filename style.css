@@ -1,0 +1,24 @@
+/*!
+Theme Name: Coverks App Theme
+Author: Scott Basgaard
+Author URI: http://scottbasgaard.com
+Description: An Ion Child Theme for Coverks
+Version: 1.0.1
+Template: ion
+License: GNU General Public License
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+html, body, #body-container {
+	height: 100%;
+	overflow-y: scroll !important;
+}
+
+.container {
+	margin: 54px 0 54px;
+	padding: 10px;
+}
+
+.help {
+	text-align: center;
+}
